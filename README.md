@@ -11,7 +11,11 @@ All the work is done in a Google Colab workspace with a GPU runtime accelerator,
 Below are the step by step instructions to run the models:
 
 Visit https://drive.google.com/drive/u/0/folders/1rXkV_bjnhJBOLhhCeBPwIgEqdLp0rdfi. This Drive contains all the datasets and pretrained model weights. Add a shortcut to your drive. 
+
 Open the notebook, the link to which is provided above.
+
 Make sure the runtime accelerator is set to GPU.
+
 Mount your Google Drive and clone this repository in the runtime environment, the code for this step has already been provided in the notebook.
+
 The Notebook is now ready for use. All the package requirements have been mentioned in the notebook.
